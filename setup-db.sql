@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS authorised (FORCE);
+
+CREATE DATABASE authorised;
